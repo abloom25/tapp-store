@@ -4,7 +4,7 @@
   "version": "1.8.99",
   "api_version": "2",
   "base_url": "https://raw.githubusercontent.com/Myriad-You/tapp-store/main",
-  "updated_at": "2026-08-02T23:58:58Z",
+  "updated_at": "2026-08-03T00:01:43Z",
   "maintainer": {
     "name": "Myriad Team",
     "email": "tapp@myriad.you",
@@ -557,13 +557,13 @@
         "page_styles": "apps/site.abloom.meliora/page.css",
         "page_template": "apps/site.abloom.meliora/page.html"
       },
-      "size": 255511,
+      "size": 255405,
       "downloads": 0,
       "rating": 0,
       "featured": false,
       "verified": false,
       "created_at": "2026-08-01T16:58:00Z",
-      "updated_at": "2026-08-02T23:58:58Z"
+      "updated_at": "2026-08-03T00:01:43Z"
     },
     {
       "id": "cn.xciy.rocom.merchant",
